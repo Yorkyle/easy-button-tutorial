@@ -1,0 +1,14 @@
+#easyBtn {
+    background-color: red;
+    color: white;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+#easyBtn:hover {
+    background-color: darkred;
+}
